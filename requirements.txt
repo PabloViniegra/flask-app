@@ -1,0 +1,9 @@
+flask
+flask_smorest
+bcrypt
+flask_sqlalchemy
+sqlalchemy
+pydotenv
+flask_marshmallow
+python-dotenv
+marshmallow-sqlalchemy
